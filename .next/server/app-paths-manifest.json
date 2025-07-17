@@ -1,0 +1,5 @@
+{
+  "/miner/page": "app/miner/page.js",
+  "/page": "app/page.js",
+  "/sacred/page": "app/sacred/page.js"
+}
